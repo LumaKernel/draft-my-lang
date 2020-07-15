@@ -67,7 +67,7 @@ Literals are *typed*.
 Ordered from weak to strong in each group.
 Groups are independent each other.
 
-## arithmentic
+## arithmetic
 
 - `a + b`
 - `a * b`,`a % b`
